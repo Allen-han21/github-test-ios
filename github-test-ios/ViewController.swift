@@ -14,6 +14,11 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("hi")
         print("너무 쉬워")
+        print("git1")
+        print("git2")
+        print("git3")
+        print("git4")
+        print("git5")
     }
 
 
