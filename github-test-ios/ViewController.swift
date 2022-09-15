@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print("hi")
         print("너무 쉬워")
         print("git1")
+        print("git2")
     }
 
 
