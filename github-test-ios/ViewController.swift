@@ -22,6 +22,7 @@ class ViewController: UIViewController {
         print("git2-1")
         print("git2-2")
         print("git2-3")
+        print("git2-4")
     }
 
 
